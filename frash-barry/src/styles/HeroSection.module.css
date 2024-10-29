@@ -1,0 +1,63 @@
+
+.hero {
+    position: relative;
+    justify-content: space-between;
+  }
+  
+  .background {
+    background-image: linear-gradient(rgba(243, 243, 206, 0.1), rgba(245, 245, 220, 0.1)
+    ), 
+    url("../images/klubnika_iagody.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 1250px;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 10px;
+    border-left: 100px;
+  }
+  
+  .overlay {
+    color: white;
+    text-align: end;
+    margin-top: 300px;
+    width: 90%;
+  }
+  
+  .cta {
+    background-color: rgb(202, 52, 52) ;
+    border: none;
+    margin-left: 45%;
+    margin-top: 300px;
+    padding: 15px 40px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+ .tittle {
+  font-size: 55px;
+  margin-right: 100px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: rgb(202, 67, 67) ;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .description {
+  color: rgb(240, 240, 202) ;
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 40px;
+ }
+
+ .wave {
+  width: 100%;
+  height: 150px; /* Высота волны */
+  z-index: 1; /* Чтобы волна была над фоном */
+  margin-top: 1100px
+}

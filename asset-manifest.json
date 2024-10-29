@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Frash-Barry/static/css/main.d9cb5224.css",
+    "main.js": "/Frash-Barry/static/js/main.55158319.js",
+    "static/media/klubnika_iagody.jpg": "/Frash-Barry/static/media/klubnika_iagody.4544c594d9b7d84f9533.jpg",
+    "static/media/plantacia.jpg": "/Frash-Barry/static/media/plantacia.b42f9ad486c7cd9d83e0.jpg",
+    "static/media/upokovka.jpg": "/Frash-Barry/static/media/upokovka.6f0a0e0dd90e08c9b12e.jpg",
+    "static/media/perevoz.jpg": "/Frash-Barry/static/media/perevoz.e631799578efda3f2cfe.jpg",
+    "index.html": "/Frash-Barry/index.html",
+    "main.d9cb5224.css.map": "/Frash-Barry/static/css/main.d9cb5224.css.map",
+    "main.55158319.js.map": "/Frash-Barry/static/js/main.55158319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cb5224.css",
+    "static/js/main.55158319.js"
+  ]
+}
